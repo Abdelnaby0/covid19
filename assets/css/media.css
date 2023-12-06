@@ -143,17 +143,21 @@
         }
     }
 }
+#section-8 .container{
+    width: 100%;
+}
 #section-8 .container .cont2 .mainq{
     flex-wrap: wrap;
     justify-content: space-between;
     & .questions{
-        width: 80%;
+        width: 95%;
         margin: auto;
         margin-bottom: 20px;
     }
     & .ans{
         width: 100%;
         margin: auto;
+        margin-bottom: 20px;
     }
 }
 #section-9 .container .cards{
